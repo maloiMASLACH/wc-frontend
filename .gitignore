@@ -2,12 +2,14 @@
 
 # dependencies
 /node_modules
+
 /.pnp
 .pnp.js
 
 # testing
 /coverage
-
+/.yalc
+yalc.lock
 # production
 /build
 
